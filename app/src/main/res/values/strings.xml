@@ -1,0 +1,12 @@
+<resources>
+    <string name="enter_text">Enter text</string>
+    <string name="calculate">Calculate</string>
+    <string name="words">Words</string>
+    <string name="characters">Characters</string>
+    <string name="result">Result: %d</string>
+    <string name="app_name">Word Counter</string>
+    <string-array name="count_types">
+        <item>@string/words</item>
+        <item>@string/characters</item>
+    </string-array>
+</resources>
